@@ -1,7 +1,7 @@
 {
   "name": "local-review-md",
   "displayName": "Local Review to Markdown",
-  "description": "Local-first inline review notes with Markdown export.",
+  "description": "Annotate code with inline review notes, organize them into named groups, and export a saved Markdown file — ready to use as context in any AI-assisted code review.",
   "version": "0.1.0",
   "publisher": "tmsdnl",
   "packageManager": "pnpm@10.33.0",
@@ -21,11 +21,11 @@
     "url": "https://github.com/tmsdnl/vscode-local-review-md/issues"
   },
   "keywords": [
-    "local review",
     "code review",
-    "markdown",
-    "comments",
-    "agent"
+    "AI context",
+    "inline comments",
+    "markdown export",
+    "code annotation"
   ],
   "engines": {
     "vscode": "^1.100.0"
